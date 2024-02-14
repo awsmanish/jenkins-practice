@@ -1,6 +1,6 @@
 class simple{
 public static void main(string args[]){
 
-System.out.println("welcome to cloud woeld");
+System.out.println("welcome to cloud word");
 }
 }
